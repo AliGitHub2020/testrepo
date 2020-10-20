@@ -1,0 +1,9 @@
+[0407/084148.855:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: The paging file is too small for this operation to complete. (0x800705AF)
+[0407/084148.857:ERROR:minidumpwritedump_with_crashpad_info.cc(608)] Failed to write minidump file
+[0407/084148.858:ERROR:crash_report_exception_handler.cc(122)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0407/084148.864:ERROR:process_info.cc(359)] UncheckedAllocate
+[0407/084150.172:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: The paging file is too small for this operation to complete. (0x800705AF)
+[0407/084150.172:ERROR:minidumpwritedump_with_crashpad_info.cc(608)] Failed to write minidump file
+[0407/084150.173:ERROR:crash_report_exception_handler.cc(122)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0407/084150.179:ERROR:process_info.cc(359)] UncheckedAllocate
+[0407/084150.842:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\semam\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\641b854e-c914-42c2-be72-716c39bedf32.dmp: The process cannot access the file because it is being used by another process. (0x20)
